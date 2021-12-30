@@ -1,10 +1,26 @@
 
 ### Hello World 👋
-I am a fullstack software engineer from banglore , India
+
+Experienced fullstack software engineer from banglore , India
+<br>
+
 - 🔭 Working on multiple backend and frontend projects using Angular, javascript , Springboot with Microservices architecture focusing on enterprise Apps running on multi cloud platform. 
 - 🌱 Learning front end in depth
 <br>
 
+
+My Interests areas are 
+
+<img align="left" alt="backend" src="https://img.shields.io/badge/backend%20-%2343853D.svg?&style=for-the-badge&logo=backend&logoColor=white" />
+<img align="left" alt="cloud" src="https://img.shields.io/badge/cloud%20-%236DB33F.svg?&style=for-the-badge&logo=cloud&logoColor=white" />
+<img align="left" alt="design" src="https://img.shields.io/badge/design%20-%236DB33F.svg?&style=for-the-badge&logo=design&logoColor=white" />
+
+<img align="left" alt="frontend" src="https://img.shields.io/badge/micro-frontend-%23232F3E?logo=micro-frontend&logoColor=white&style=for-the-badge" />
+<img align="left" alt="automation" src="https://img.shields.io/badge/automation%20-%2320232a.svg?&style=for-the-badge&logo=automation&logoColor=%2361DAFB" />
+
+
+
+<br>
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gmaheshraju)
