@@ -30,6 +30,9 @@ My Interests areas are
 <br>
 <br>
 
+
+
+
 ## Expertise
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
@@ -44,6 +47,9 @@ My Interests areas are
 <br>
 <br>
 
+```
+![Visitor Count](https://profile-counter.glitch.me/gmaheshraju/count.svg)
+```
 <!--
 **gmaheshraju/gmaheshraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
