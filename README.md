@@ -17,7 +17,7 @@ Experienced fullstack software engineer from banglore , India
 <br>
 
 
-My Interests areas are as follows:
+My Interests areas are:
 
 <img align="left" alt="backend" src="https://img.shields.io/badge/backend%20-%2343853D.svg?&style=for-the-badge&logo=backend&logoColor=white" />
 <img align="left" alt="cloud" src="https://img.shields.io/badge/cloud%20-%236DB33F.svg?&style=for-the-badge&logo=cloud&logoColor=white" />
