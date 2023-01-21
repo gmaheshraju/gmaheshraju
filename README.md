@@ -11,7 +11,7 @@ Experienced fullstack software engineer from banglore , India
 <br>
 
 - Add value quickly => Big fan of serverless tech
-- 🔭 Working on multiple backend and frontend projects using java, aws, serverless, javascript, nodejs ,Angular , Springboot with Microservices architecture focusing on enterprise Apps running on multi cloud platform. 
+- 🔭 Working on multiple backend and frontend projects using React, Nodejs, java, aws, serverless, javascript,Angular , Springboot with Microservices architecture focusing on enterprise Apps running on multi cloud platform. 
 - 🌱 currently focusing on learning front end in depth
 <br>
 
