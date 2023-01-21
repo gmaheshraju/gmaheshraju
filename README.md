@@ -5,7 +5,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/gmaheshraju)
 
-[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmaheshraju)]
 
 <br>
 Experienced fullstack software engineer from banglore , India
