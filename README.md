@@ -7,7 +7,7 @@
 
 
 <br>
-Experienced fullstack software engineer from banglore,India
+Individual contributer.Experienced fullstack software engineer from banglore,India.
 <br>
 
 - Add value quickly => Big fan of serverless tech
