@@ -7,7 +7,7 @@
 
 
 <br>
-Experienced software engineer from banglore,India.
+Experienced engineer from banglore,India.
 <br>
 
 - Add value quickly => Big fan of serverless tech
