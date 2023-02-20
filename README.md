@@ -10,7 +10,7 @@
 Senior Software Engineer from banglore,India.
 <br>
 
-- Add value quickly => Big fan of serverless tech
+- Add value quickly => Big fan of serverless tech and React Js
 - 🔭 Working on multiple backend and frontend projects using React, Nodejs, AWS, java, aws, serverless, javascript,Angular, Springboot with Microservices architecture focusing on enterprise Apps running on multi cloud platform. 
 - 🌱 I am an Individual contributer with solid knowledge in all areas(design, development, deployment ,delivery ,upgrades , automation)
                 <br>
