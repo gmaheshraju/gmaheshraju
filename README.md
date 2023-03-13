@@ -23,6 +23,21 @@ Senior Engineer from banglore,India.
 <br>
 
 
+<!--
+**gmaheshraju/gmaheshraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 My Interests areas:
 
 <img align="left" alt="backend" src="https://img.shields.io/badge/backend%20-%2343853D.svg?&style=for-the-badge&logo=backend&logoColor=white" />
@@ -48,7 +63,7 @@ My Interests areas:
 
 
 
-## Expertise & Tools
+## Expertise ,  Tools & Languages
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/microservices%20-%236DB33F.svg?&style=for-the-badge&logo=microservices&logoColor=white" />
@@ -60,8 +75,9 @@ My Interests areas:
 <img align="left" alt="android" src="https://img.shields.io/badge/ELK-3DDC84?logo=ELK&logoColor=white&style=for-the-badge" />
 
 <br>
-<h2 align="left">👨‍💻 Tools & Languages :</h2>
+
 <p align="center">
+ <br />
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -110,17 +126,9 @@ My Interests areas:
 
 <br>
 
-<!--
-**gmaheshraju/gmaheshraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gmaheshraju)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub metrics](https://metrics.lecoq.io/gmaheshraju)
+
+
