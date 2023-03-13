@@ -126,9 +126,5 @@ My Interests areas:
 
 <br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gmaheshraju)
-
-
-![GitHub metrics](https://metrics.lecoq.io/gmaheshraju)
 
 
