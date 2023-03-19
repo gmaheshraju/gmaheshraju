@@ -61,6 +61,13 @@ My Interests areas:
 <br>
 
 
+<br />
+<p align="center" style="margin-right:0px;padding-right:0px;display:flex;gap:40px">
+<img src="https://github-readme-stats.vercel.app/api?username=gmaheshraju">
+<img src="https://streak-stats.demolab.com?user=gmaheshraju&border_radius=5" alt="sahilkh07" />
+</p>
+
+<br />
 
 
 ## Expertise ,  Tools & Languages
