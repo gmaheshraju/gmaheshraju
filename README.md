@@ -64,9 +64,9 @@ My Interests areas:
 <br />
 <p align="center" style="margin-right:0px;padding-right:0px;display:flex;gap:40px">
 <img src="https://github-readme-stats.vercel.app/api?username=gmaheshraju">
-<img src="https://streak-stats.demolab.com?user=gmaheshraju&border_radius=5" alt="sahilkh07" />
+<img src="https://streak-stats.demolab.com?user=gmaheshraju&border_radius=5" alt="gmaheshraju" />
 </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmaheshraju&show_icons=true&locale=en&layout=compact" alt="gmaheshraju" /></p>
 <br />
 
 
