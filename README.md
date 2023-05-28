@@ -61,15 +61,6 @@ My Interests areas:
 <br>
 
 
-<br />
-<p align="center" style="margin-right:0px;padding-right:0px;display:flex;gap:40px">
-<img src="https://github-readme-stats.vercel.app/api?username=gmaheshraju">
-<img src="https://streak-stats.demolab.com?user=gmaheshraju&border_radius=5" alt="gmaheshraju" />
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmaheshraju&show_icons=true&locale=en&layout=compact" alt="gmaheshraju" /></p>
-<br />
-
-
 ## Expertise ,  Tools & Languages
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/java%20-%2343853D.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
