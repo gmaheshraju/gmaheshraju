@@ -7,7 +7,7 @@
 
 
 <br>
-Senior Engineer from banglore,India.
+Senior Software Engineer from banglore,India.
 <br>
 
 - Add value quickly => Big fan of cloud technology and React Js
