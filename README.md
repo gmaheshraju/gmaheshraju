@@ -7,7 +7,7 @@
 
 
 <br>
-Software Engineer from banglore,India
+Software Developer from banglore,India
 <br>
 
 - Add value quickly => Big fan of cloud technology and React Js
