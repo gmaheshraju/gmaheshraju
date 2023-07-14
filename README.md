@@ -4,7 +4,7 @@
  <br>
 
 <br>
-Software Developer from banglore,India
+Software Engineer from banglore,India
 <br>
 
 Passionate about Cloud Technology and React JS:
