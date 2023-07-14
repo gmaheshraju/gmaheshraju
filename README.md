@@ -7,16 +7,20 @@
 Software Developer from banglore,India
 <br>
 
-- Add value quickly => Big fan of cloud technology and React Js
-- 🔭 Working on multiple backend and frontend projects using React, Nodejs, AWS, java, aws, serverless, javascript,Angular, Springboot with Microservices architecture focusing on enterprise Apps running on multi cloud platform. 
-- 🌱 I am an Individual contributer with solid knowledge in all areas(design, development, deployment ,delivery ,upgrades , automation)
-                <br>
-                     - Design front end, back end API's and databases
-                     - Convert mockups to actual webpages with end to end development
-                     - Write unit tests, integration tests , apply best security practices
-                     - Follow best deployment practices using CI/CD
-                     - Good at solutions design in AWS cloud. 
-                <br>
+Passionate about Cloud Technology and React JS:
+🔭 Currently engaged in various backend and frontend projects utilizing a wide range of technologies such as React, Node.js, AWS, Java, Serverless, JavaScript, Angular, Spring Boot, and Microservices architecture. My focus lies in developing enterprise applications that run seamlessly on multi-cloud platforms.
+
+🌱 As an individual contributor, I possess comprehensive expertise in all aspects of the software development lifecycle, including design, development, deployment, delivery, upgrades, and automation.
+
+Key Proficiencies:
+<ul>
+<li>Designing front-end and back-end APIs and databases.</li>
+<li>Translating mockups into fully functional webpages through end-to-end development.</li>
+<li>Writing thorough unit tests, integration tests, and implementing top-notch security practices.</li>
+<li>Adhering to the best deployment practices using CI/CD.</li>
+<li>Demonstrating proficiency in AWS cloud solutions design.</li>
+</ul>
+I am eager to add immediate value to [Company] through my technical skills and experience. Please feel free to contact me(maheshraju1218@gamil.com) to discuss how I can contribute to the success of your team.
 <br>
 
 
