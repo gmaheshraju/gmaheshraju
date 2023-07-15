@@ -12,7 +12,7 @@ Key Proficiencies:
 <li>Translating mockups into fully functional webpages through end-to-end development.</li>
 <li>Writing thorough unit tests, integration tests, and implementing top-notch security practices.</li>
 <li>Adhering to the best deployment practices using CI/CD.</li>
-<li>Demonstrating proficiency in AWS cloud solutions design.</li>
+<li>Demonstrating proficiency in AWS cloud solutions design and development</li>
 </ul>
 
 ## Connect with me
