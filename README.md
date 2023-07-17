@@ -33,19 +33,6 @@ Key Proficiencies:
 I am eager to add immediate value to any organization through my technical skills and experience. Please feel free to contact me(maheshraju1218@gamil.com) to discuss how I can contribute to the success of your team.
 <br />
 
-<br />
-<b> Note:</b> Using external API to display the profile view counter .It will reset to zero when API goes down and starts from 1 when api is up.
-
-
-
-<br />
-<table align="center">
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/gmaheshraju/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
-<br>
 
 
 <br>
