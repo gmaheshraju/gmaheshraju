@@ -3,9 +3,14 @@
 
 Senior Full Stack Engineer.Coding enthusiast with strong development skills, eager to learn new technologies, and experienced as a freelancer
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmaheshraju" />
+
 1. 🔭 Currently engaged in various backend and frontend projects utilizing a wide range of technologies such as React, Node.js, AWS, Java, Serverless, JavaScript, Angular, Spring Boot, and Microservices architecture. My focus lies in developing enterprise applications that run seamlessly on multi-cloud platforms.
 2. 🌱 As an individual contributor, I possess comprehensive expertise in all aspects of the software development lifecycle, including design, development, deployment, delivery, upgrades, and automation.
-  
+
+
+ 
+
 Key Proficiencies:
 <ul>
 <li>Designing front-end and back-end APIs and databases.</li>
