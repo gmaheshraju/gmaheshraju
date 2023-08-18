@@ -15,6 +15,8 @@ Senior Engineer.Coding enthusiast with strong development skills, eager to learn
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=flat&color=black)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=black)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
