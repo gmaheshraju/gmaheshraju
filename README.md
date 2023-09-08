@@ -1,7 +1,7 @@
 
 ### Hi 👋 My name is <b> Mahesh </b>
 
-Senior Full Stack Engineer.Coding enthusiast with strong development skills, eager to learn new technologies, and experienced as a freelancer
+Senior Engineer.Coding enthusiast with strong development skills, eager to learn new technologies, and experienced as a freelancer
 
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmaheshraju&layout=donut" /> -->
 
