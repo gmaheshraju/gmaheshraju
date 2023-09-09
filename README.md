@@ -3,7 +3,7 @@
 
 Senior Full Stack Engineer.Coding enthusiast with strong development skills, eager to learn new technologies, and experienced as a freelancer
 
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmaheshraju&layout=donut" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmaheshraju&layout=donut" />
 
 <!-- [![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmaheshraju)](https://github.com/gmaheshraju/github-readme-stats) -->
 
