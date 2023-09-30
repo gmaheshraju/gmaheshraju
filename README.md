@@ -16,6 +16,16 @@ Senior Engineer.Coding enthusiast with strong development skills, eager to learn
       - AWS security
        
 - 👯 I’m looking to collaborate on building performant,scalable SAAS products.
+## Connect with me
+
+  📫: maheshraju1218@gmail.com<br/> 
+
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gmaheshraju)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://maheshguntumadugu.medium.com/)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/mahesh1218/)
+
+<br>
 
 
 ### 🛠 Tech Stack
@@ -41,16 +51,7 @@ Key Proficiencies:
 <li>Demonstrating proficiency in AWS cloud solutions design and development</li>
 </ul>
 
-## Connect with me
 
-  📫: maheshraju1218@gmail.com<br/> 
-
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gmaheshraju)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://maheshguntumadugu.medium.com/)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/mahesh1218/)
-
-<br>
 <br>
   Keep Learning and Keep growing ❤
 <br />
