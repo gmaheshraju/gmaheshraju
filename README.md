@@ -10,6 +10,13 @@ Senior Engineer.Coding enthusiast with strong development skills, eager to learn
 1. 🔭 Currently engaged in various backend and frontend projects utilizing a wide range of technologies such as React, Node.js, AWS, Java, Serverless, JavaScript, Spring Boot, and Microservices architecture. My focus lies in developing enterprise applications that run seamlessly on multi-cloud platforms.
 2. 🌱 As an individual contributor, I possess comprehensive expertise in all aspects of the software development lifecycle, including design, development, deployment, delivery, upgrades, and automation.
 
+   🌱Currently experimenting with:
+      - t3stack (Next.js,tRPC,Tailwind CSS,TypeScript,Prisma,NextAuth.js)
+      - Graphql, grpc, Advanced React and Typescript concepts 
+      - AWS security
+       
+- 👯 I’m looking to collaborate on building performant,scalable SAAS products.
+
 
 ### 🛠 Tech Stack
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
