@@ -14,8 +14,9 @@ Senior Engineer.Coding enthusiast with strong development skills, eager to learn
       - t3stack (Next.js,tRPC,Tailwind CSS,TypeScript,Prisma,NextAuth.js)
       - Graphql, grpc, Advanced React and Typescript concepts 
       - AWS security
-       
-- 👯 I'm interested in working with you to develop scalable, effective SAAS products.
+
+##### 👯 I'm interested in working with you to develop scalable, effective SAAS products.
+
 ## Connect with me
 
   📫: maheshraju1218@gmail.com<br/> 
