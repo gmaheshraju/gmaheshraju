@@ -15,7 +15,7 @@ Senior Engineer.Coding enthusiast with strong development skills, eager to learn
       - Graphql, grpc, Advanced React and Typescript concepts 
       - AWS security
        
-- 👯 I’m looking to collaborate on building performant,scalable SAAS products.
+- 👯 I'm interested in working with you to develop scalable, effective SAAS products.
 ## Connect with me
 
   📫: maheshraju1218@gmail.com<br/> 
