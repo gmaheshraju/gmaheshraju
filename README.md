@@ -56,12 +56,6 @@ Key Proficiencies:
 <br>
   Keep Learning and Keep growing ❤
 <br />
-<br/>
-</ul>
-I am eager to add immediate value to any organization through my technical skills and experience. Please feel free to contact me(maheshraju1218@gamil.com) to discuss how I can contribute to the success of your team.
-<br />
-
-
 
 <br>
 
