@@ -6,14 +6,14 @@ Senior Engineer.Coding enthusiast with strong development skills, eager to learn
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmaheshraju&layout=donut" />
 
 <!-- [![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmaheshraju)](https://github.com/gmaheshraju/github-readme-stats) -->
-
+<!-- 
 1. 🔭 Currently engaged in various backend and frontend projects utilizing a wide range of technologies such as React, Node.js, AWS, Java, Serverless, JavaScript, Spring Boot, and Microservices architecture. My focus lies in developing enterprise applications that run seamlessly on multi-cloud platforms.
 2. 🌱 As an individual contributor, I possess comprehensive expertise in all aspects of the software development lifecycle, including design, development, deployment, delivery, upgrades, and automation.
-
+-->
    🌱Currently experimenting with:
+   
       - t3stack (Next.js,tRPC,Tailwind CSS,TypeScript,Prisma,NextAuth.js)
-      - Graphql, grpc, Advanced React and Typescript concepts 
-      - AWS security
+      - Graphql, grpc, Advanced React and Typescript concepts
 
 ##### 👯 I'm interested in working with you to develop scalable, effective SAAS products.
 
