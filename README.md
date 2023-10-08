@@ -15,7 +15,7 @@ Senior Engineer.Coding enthusiast with strong development skills, eager to learn
       - t3stack (Next.js,tRPC,Tailwind CSS,TypeScript,Prisma,NextAuth.js)
       - Graphql, grpc, Advanced React and Typescript concepts
 
-##### 👯 I'm interested in working with you to develop scalable, effective SAAS products.
+##### 👯 I'm interested in working with you to develop scalable, effective SAAS products using modern stacks such as (MERN, T3 stack)
 
 ## Connect with me
 
