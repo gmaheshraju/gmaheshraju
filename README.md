@@ -10,10 +10,11 @@ Engineer.Coding enthusiast with strong development skills, eager to learn new te
 1. 🔭 Currently engaged in various backend and frontend projects utilizing a wide range of technologies such as React, Node.js, AWS, Java, Serverless, JavaScript, Spring Boot, and Microservices architecture. My focus lies in developing enterprise applications that run seamlessly on multi-cloud platforms.
 2. 🌱 As an individual contributor, I possess comprehensive expertise in all aspects of the software development lifecycle, including design, development, deployment, delivery, upgrades, and automation.
 -->
-   🌱Currently building expertise in React/Next js Ecosystem:
+   🌱Currently building expertise in React/Next js and developer tools
    
       - t3stack (Next.js,tRPC,Tailwind CSS,TypeScript,Prisma,NextAuth.js)
       - Graphql, grpc, Advanced React and Typescript concepts
+      - CLI's
 
 ##### 👯 I'm interested in working with you to develop scalable, effective SAAS products using modern stacks such as (MERN, T3 stack, Cloud Technologies)
 
