@@ -16,7 +16,7 @@ Engineer.Coding enthusiast with strong development skills, eager to learn new te
       - Graphql, grpc, Advanced React and Typescript concepts
       - Dev tools & CLI's
 
-##### 👯 I'm interested in working with you to develop scalable, effective SAAS products using modern stacks such as (MERN, T3 stack, Cloud Technologies)
+##### 👯 I'm interested in collaborating with you to create enterprise-level SAAS products that are scalable and successful leveraging best security practices and contemporary stacks like MERN, T3, and cloud technologies.
 
 ## Connect with me
 
