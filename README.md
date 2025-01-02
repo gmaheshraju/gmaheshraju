@@ -16,11 +16,14 @@
       - Graphql, grpc, Advanced React and Typescript concepts
       - Dev tools & CLI's
 
-##### 👯 I'm interested in collaborating with you to create enterprise-level SAAS products that are scalable and successful leveraging best security practices and contemporary stacks like MERN, T3, and cloud technologies.
+
 
 ## Connect with me
 
-  📫: maheshraju1218@gmail.com<br/> 
+  Email: maheshraju1218@gmail.com<br/> 
+  Linkedin: https://www.linkedin.com/in/gmaheshraju<br />
+  Medium: https://medium.com/@gmaheshraju
+
 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gmaheshraju)
