@@ -11,6 +11,8 @@
 2. 🌱 As an individual contributor, I possess comprehensive expertise in all aspects of the software development lifecycle, including design, development, deployment, delivery, upgrades, and automation.
 -->
    🌱Currently building expertise in React/Next js and developer tools
+
+   
       - Building AI Agents
       - Dev tools & CLI's
       - t3stack (Next.js,tRPC,Tailwind CSS,TypeScript,Prisma,NextAuth.js)
