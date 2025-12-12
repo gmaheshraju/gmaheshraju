@@ -14,11 +14,8 @@
    🌱Currently building expertise in AI Agents, React/Next js and developer tools
 
    
-      - Building AI Agents
+      - Building AI Agents, MCP Servers, AI ready API's
       - Dev tools & CLI's
-      - t3stack (Next.js,tRPC,Tailwind CSS,TypeScript,Prisma,NextAuth.js)
-      - Graphql, grpc, Advanced React and Typescript concepts
-     
 
 
 
