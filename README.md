@@ -14,7 +14,7 @@
    🌱Currently building expertise in AI Agents, React/Next js and developer tools
 
    
-      - Building AI Agents, MCP Servers, AI ready API's
+      - Building AI Agents, Context intelligence, MCP Servers, AI ready Secure API's
       - Dev tools & CLI's
 
 
