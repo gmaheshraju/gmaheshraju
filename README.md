@@ -45,11 +45,11 @@
 
 Key Proficiencies:
 <ul>
-<li>Designing front-end and back-end APIs and databases.</li>
-<li>Translating mockups into fully functional webpages through end-to-end development.</li>
-<li>Writing thorough unit tests, integration tests, and implementing top-notch security practices.</li>
-<li>Adhering to the best deployment practices using CI/CD.</li>
-<li>Demonstrating proficiency in AWS cloud solutions design and development</li>
+<li>Full-stack architecture: APIs, databases, infrastructure</li> 
+<li>Production-ready mindset: Security, testing, observability</li>
+<li>AI-amplified development: Ship in days, maintain for years</li>
+<li>Context-driven design: Solve the right problem, the right way</li>
+<li>AWS,GCP cloud solutions: Design, build, deploy</li>
 </ul>
 
 
