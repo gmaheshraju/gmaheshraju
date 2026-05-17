@@ -1,7 +1,7 @@
 
 ### Hi 👋 My name is <b> Mahesh </b>
 
-  Context intelligence | AI-Augmented Full Stack Engineer | From Idea to Production—Fast.
+  AI Agents | Context Harness | From Idea to Production—Fast.
   Coding enthusiast with strong development skills, eager to learn new technologies, and experienced as a freelancer
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmaheshraju&layout=donut" />
