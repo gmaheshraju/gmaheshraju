@@ -14,8 +14,8 @@
    🌱Currently building expertise in AI Agents, AI orchestration and developer tools
 
    
-      - Building AI Agents, Context intelligence, MCP Servers, AI ready Secure API's
-      - Dev tools & CLI's
+      - Building Agentic workflows, Context intelligence, MCP Servers, AI ready Secure API's
+      - Developer workflows, CLI's
 
 
 
